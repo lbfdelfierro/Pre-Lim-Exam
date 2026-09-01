@@ -108,22 +108,3 @@ Applying design principles to create **engaging infographics** while documenting
 </table>
 
 ---
-
-# 🌿 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
-
-```text
-🍵 Read-Me-Activities
-│
-├── 🌿 README.md
-│
-├── 📁 Activity-1-Presentation-Design-Principles
-│   ├── 📄 README.md
-│   └── 🖼️ Outputs
-│
-├── 📁 Activity-2-Color-Palette-and-Typography
-│   ├── 📄 README.md
-│   └── 🖼️ Outputs
-│
-└── 📁 Activity-3-Social-Media-Infographics-and-Mini-Project
-    ├── 📄 README.md
-    └── 🖼️ Outputs
