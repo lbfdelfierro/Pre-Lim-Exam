@@ -1,110 +1,74 @@
 <div align="center">
 
-# 🍵🌿 READ ME ACTIVITIES 🌿🍵
+**୨୧ Design • Creativity • Visual Communication ୨୧**
 
-### ୨୧ Design • Creativity • Visual Communication ୨୧
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B7C9A8&height=180&section=header&text=Welcome%20to%20My%20Design%20Space&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+# 🍵 Welcome to My Design Space 🍵
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 🌱 **A collection of my creative activities, design outputs, and mini projects** 🌱
 
 *exploring the little things that make good design beautiful, clear, and meaningful*
 
-🍵 ───────────────────────── 🍵
+────────────────────────────────────────
 
 </div>
 
-# 🌿 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
+## 🌿 About This Repository
+Welcome to my **Read Me Activities Repository!** ♡ This space is dedicated to showcasing my progress and final outputs for our module. Below is a complete overview of my three main activities, focusing on effective layouts, cohesive brand identity, and meaningful social media advocacy. No extra setup required—just click the folders to explore!
 
-Welcome to my **Read Me Activities Repository!** ♡
+<br>
 
-This repository contains my activities and outputs focused on **presentation design, color palettes, typography, social media infographics, and project documentation**.
+<div align="center">
 
-Each activity allows me to explore different aspects of visual communication while developing my creativity and understanding of effective design.
-
-> 🍃 **Design is not only about making things look good — it is about making ideas easier to understand.**
-
----
-
-# 🍵 𝐌𝐲 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-## 🌱
-
-### Activity 01
-
-### Presentation Design Principles
-
-Learning the fundamental principles of creating presentations that are **organized, visually appealing, readable, and effective**.
+### 📁 Activity 01
+#### Presentation Design Principles
+Learning the fundamental principles of creating presentations that are **organized, visually appealing, readable, and effective.**
 
 **Focus Areas**
+<br>🌿 Visual Hierarchy
+<br>🌿 Balance & Alignment
+<br>🌿 Contrast
+<br>🌿 Consistency
+<br>🌿 Simplicity
+<br>🌿 Slide Organization
 
-🌿 Visual Hierarchy  
-🌿 Balance & Alignment  
-🌿 Contrast  
-🌿 Consistency  
-🌿 Simplicity  
-🌿 Slide Organization  
+<br>
 
-📂 `Activity-1`
+─────────────────────────
 
-</td>
+<br>
 
-<td width="33%" align="center">
-
-## 🍵
-
-### Activity 02
-
-### Color Palette & Typography
-
+### 📁 Activity 02
+#### Color Palette & Typography
 Exploring how **colors and typography** work together to create a consistent visual identity and improve communication.
 
 **Focus Areas**
+<br>🍃 Color Theory
+<br>🍃 Color Harmony
+<br>🍃 Color Palettes
+<br>🍃 Readability
+<br>🍃 Font Pairing
+<br>🍃 Typography Hierarchy
 
-🍃 Color Theory  
-🍃 Color Harmony  
-🍃 Color Palettes  
-🍃 Readability  
-🍃 Font Pairing  
-🍃 Typography Hierarchy  
+<br>
 
-📂 `Activity-2`
+─────────────────────────
 
-</td>
+<br>
 
-<td width="33%" align="center">
-
-## 🌿
-
-### Activity 03
-
-### Social Media Infographics & Mini Project
-
+### 📁 Activity 03
+#### Social Media Infographics & Mini Project
 Applying design principles to create **engaging infographics** while documenting the process and development of a mini project.
 
 **Focus Areas**
+<br>🌱 Infographic Design
+<br>🌱 Social Media Content
+<br>🌱 Visual Storytelling
+<br>🌱 Layout & Composition
+<br>🌱 Project Documentation
+<br>🌱 Reflection
 
-🌱 Infographic Design  
-🌱 Social Media Content  
-🌱 Visual Storytelling  
-🌱 Layout & Composition  
-🌱 Project Documentation  
-🌱 Reflection  
-
-📂 `Activity-3`
-
-</td>
-</tr>
-</table>
-
----
+</div>
